@@ -24,3 +24,11 @@ var beachThree = " at the beach"
 var beachFour = beachOne + beachTwo + beachThree
 
 print (beachFour)
+
+//Assingment #2 Introduction to True and Flase
+
+var appState = false
+
+print (appState)
+
+
